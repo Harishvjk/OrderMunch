@@ -29,8 +29,6 @@ It allows the user to do the following:
 ![OM16](https://github.com/Harishvjk/OrderMunch/assets/114302678/f7c62c39-186f-41fe-b738-5b49bda8a8aa)
 
 
-![OM17](https://github.com/Harishvjk/OrderMunch/assets/114302678/f07a928a-7a7c-4453-9ed0-a22d9e5c5669)
-
 
 ![OM18](https://github.com/Harishvjk/OrderMunch/assets/114302678/c8b33cf1-547b-440a-89d7-9c59da975916)
 
