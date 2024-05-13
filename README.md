@@ -1,6 +1,6 @@
 # OrderMunch
  
-This is an Online Food Ordering System made in JavaFX with JavaFX and MySQL for Database
+This is an Online Food Ordering System made in Java with JavaFX and MySQL for Database
 It allows the user to do the following:
  1. Login with verification
  2. Register if account does not exist
